@@ -57,7 +57,7 @@ li {
     text-decoration: none;
     color: #324950;
     font-weight: 600;
-    font-family: 'Roboto Slab', sans-serif;
+    font-family: 'Heebo', sans-serif;
     transition: 0.6s linear;
 }
 .menu__item a:hover{
